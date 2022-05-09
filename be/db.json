@@ -1,0 +1,12 @@
+{
+  "donations": [
+    {
+      "amount": 994,
+      "paymentType": "Paypal",
+      "upvotes": 0,
+      "createdAt": 1651985112334,
+      "updatedAt": 1651985112334,
+      "id": 1
+    }
+  ]
+}
